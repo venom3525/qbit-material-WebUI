@@ -61,3 +61,5 @@ The app will automatically reload if you make changes to any of the Angular sour
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build. 
 
 To get a build for the login page, run `ng build --project="login"`, and provide the `--prod` flag for a production build.
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/venom3525/qbit-material-WebUI/tree/master)
